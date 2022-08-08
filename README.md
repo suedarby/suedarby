@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sue Darby</h1>
 <h3 align="center">A passionate technical writer and frontend developer from Alaska</h3>
+<h3>I just graduated as a Software Developer Summa Cum Laude!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suedarby&label=Profile%20views&color=0e75b6&style=flat" alt="suedarby" /> </p>
 
