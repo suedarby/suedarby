@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suedarby" alt="suedarby" /></a> </p>
 
-- 🔭 I’m currently working on [Sewing Project Manager](https://github.com/suedarby/SewingProjectManager)
+- 🔭 I’m currently working on the [Sewing Project Manager](https://github.com/suedarby/8-15-22SPM) which is based in Angular, Bootstrap, TypeScript and JavaScript and will be deployed to Firebase in the coming weeks.
 
   - It's cousin the Crafting Project Manager is the [Capstone Project for Entity Academy](https://github.com/woz-u/Crafting-Group)
 
-  - A personal version of the [Crafting Project Manager Capstone Project is found here](https://github.com/suedarby/TheCraftingProjectManager)
-
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Full Stack Development** and loving Firebase!
 
 - 📄 Know about my experiences [https://github.com/suedarby/Sue-Darby-Portfolio](https://github.com/suedarby/Sue-Darby-Portfolio)
 
