@@ -6,11 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suedarby" alt="suedarby" /></a> </p>
 
+- [monday.com Product Badge] (https://monday.lessonly.com/certificate/31084660) My current passion is learning GraphQL as a monday.com developer.
+
+- I'm also working on Entity Academy's Speakpulse app which will help evaluate interview questions and let you nail your interviews confidently.
+
 - 🔭 I’m currently working on the [Sewing Project Manager](https://github.com/suedarby/8-15-22SPM) which is based in Angular, Bootstrap, TypeScript and JavaScript and will be deployed to Firebase in the coming weeks.
 
   - It's cousin the Crafting Project Manager is the [Capstone Project for Entity Academy](https://github.com/woz-u/Crafting-Group)
 
-- 🌱 I’m currently learning **Full Stack Development** and loving Firebase!
+- 🌱 I've learned **Full Stack Development** and am loving Firebase!
 
 - 📄 Know about my experiences [https://github.com/suedarby/Sue-Darby-Portfolio](https://github.com/suedarby/Sue-Darby-Portfolio)
 
